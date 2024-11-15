@@ -1,0 +1,1 @@
+# Zadanie rekrutacyjne Junior AI Developer OXIDO
