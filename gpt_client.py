@@ -30,7 +30,7 @@ PRICING = {
 
 SYSTEM_CONTENT = (
                 "You are a helpful robot that converts txt content to HTML <body> content. "
-                "You do not use CSS and JavaScript. "
+                "You do not use CSS and JavaScript. Chande encodeing if neede."
                 "Use this tags: ['section','div','p','img','figure', 'figcaption']. "
                 "Do not use these tags: ['body','html','script','style'] "
                 "You can use these tags if needed: ['b','a','span','br','i','h(1-6)']"
