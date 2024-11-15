@@ -4,6 +4,7 @@ URL = "https://cdn.oxido.pl/hr/Zadanie%20dla%20JJunior%20AI%20Developera%20-%20t
 SAVE_PATH="artykul.txt"
 
 def get_text_file():
+    """Downloads the text from given url and saves it to a txt file"""
     try:
         response = requests.get(URL)
         if response.status_code == 200:
